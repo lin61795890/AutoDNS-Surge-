@@ -1,0 +1,7 @@
+#!name=Auto DNS Switch
+#!desc=智能 DNS 跟随节点切换
+#!author=ChatGPT
+#!category=Utility
+
+[Script]
+Auto-DNS-Switch = type=event,event-name=proxy-group-selection-changed,script-path=https://你的仓库地址/auto-dns.js
