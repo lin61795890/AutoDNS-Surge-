@@ -4,4 +4,4 @@
 #!category=Utility
 
 [Script]
-Auto-DNS-Switch = type=event,event-name=proxy-group-selection-changed,script-path=https://你的仓库地址/auto-dns.js
+Auto-DNS-Switch = type=event,event-name=proxy-group-selection-changed,script-path=https://raw.githubusercontent.com/lin61795890/AutoDNS-Surge-/refs/heads/main/auto-dns.js
